@@ -1,0 +1,15 @@
+.App {
+}
+
+select {
+    width: 173px
+}
+
+#App-header {
+    text-align: center;
+}
+
+#Score {
+    margin: 12px;
+    font-weight: bold;
+}

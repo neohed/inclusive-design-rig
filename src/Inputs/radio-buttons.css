@@ -1,0 +1,9 @@
+li {
+    display: flex;
+    align-items: center
+}
+input[type=radio] {
+    width: 1.4em;
+    height: 1.4em;
+    margin: 0.6em;
+}
